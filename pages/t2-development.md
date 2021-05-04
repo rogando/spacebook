@@ -5,7 +5,7 @@ permalink: /development
 eleventyNavigation:
   order: 10
   key: development
-  title: ""
+  title: t2 dev
   parent: Home
 ---
 Hello world from spacebook.
